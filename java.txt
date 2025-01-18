@@ -1,5 +1,8 @@
 public void user(){
 
+// bug 120
+
+// logic
 
 return;
 }
