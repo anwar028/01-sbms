@@ -3,3 +3,12 @@ public void user(){
 
 return;
 }
+
+
+public void getUser(){
+
+//bug 121
+
+//logic
+
+}
