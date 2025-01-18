@@ -1,0 +1,17 @@
+public void user(){
+
+// bug 120
+
+// logic
+
+return;
+}
+
+
+public void getUser(){
+
+//bug 121
+
+//logic
+
+}
